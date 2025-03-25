@@ -1,0 +1,226 @@
+////////// HTML ///////////
+
+Q :- Difference between DIV & SPAN    
+
+answer:  div is block-level element while span is inline-element.
+
+Q :- Are the HTML tags and elements the same thing?
+Ans:- no, because HTML tags are basically opening and closing tag, on the other side element is a section of content stored in any opening and closing tags
+
+Q :- What are attributes in HTML?
+answer: HTML attributes are additional values that configure or adjust the behavior of HTML elements:
+ Purpose
+Attributes are used to change the display or behavior of HTML elements, such as their color, size, or functionality
+
+
+
+
+Q :- What are void/empty elements in HTML? 
+answer:- In HTML, void or empty elements are elements that don't have content and don't require a closing tag:
+Ex:- <br>, <img><hr>
+
+What are HTML entities?
+<	&lt;   =>    less than
+> 	&gt;  =>    Greator than
+&	&amp;  =>     Ampersand
+(non-breaking space) &nbsp;
+
+
+Different types of lists in HTML.  => order and unorder list.  
+
+What is class in HTML  => In HTML, class is an attribute which give a specific name to element.
+
+Difference between class and ID  => class can be repeated and id is unique in nature.
+
+What are semantic elements =>  
+	Ans :- semantic tags in HTML are elements that clearly decrine thier meaning,  providing structure and context to web content		
+
+What are meta tags?
+ Ans  :-  Meta Tags are that provide meta data about web page such as title, discription and keywords which are use by search engine and browser to understand the content and context the web page
+
+Can we display a web page inside a web page?
+Anss :- Yes, you can display a web page inside another web page using <iFrame> (inline frame) element.
+
+Is it possible to change an inline element to block element and vice versa?
+Ans :- Yes element behavior can be modify using display property in css.
+
+What is the target attribute in HTML?
+Ans :- HTML target attribute typicaly used within <a> tags. specifies where linked document should be open when clicked.
+
+In how many ways can we specify the CSS styles for the HTML element?
+Ans :- we can specify the css style in three ways in html element.
+
+What are some of the advantages of HTML5 over its previous versions?
+Ans:- HTML5 provied native audio and video support.
+
+How can we include audio or video in a webpage?
+Ans :- By using <audio> and <video> tags
+ 
+What type of audio files can be played using HTML5?
+And:-
+Mp3
+WAV
+Ogg
+
+Tell me about background property in CSS.
+Ans :- the backgrouund shorthand css property sets all background properties at once such as color, size, image and repeat mathod
+
+Difference between localStorage & sessionStorage.
+Ans :- localStorage keeps data until manually cleared and localStorage is temporary and cleared when browser session end.
+
+What are the various input types in HTML form?
+<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+
+
+////////// CSS //////////
+
+
+what is inheritance in css?
+Ans :- In css inheritance controls what happens when no value specifed for a property on an element
+
+Explain how inheritance works in CSS?
+
+What is CSS specificity?
+
+What does RGB stand for in CSS?
+
+What is the A in RGBA?
+
+What are HEX values in CSS?
+
+What are EM & REM units in CSS?
+
+What are viewport units in CSS?
+
+How is the calc function used in CSS?
+
+What does the min-height property do in CSS?
+
+What does the max-height property do in CSS?
+
+What is a font stack, and what are generic fonts in CSS?
+
+What are font-weight and font-style in CSS?
+
+How is the text-indent property used in CSS?
+
+What are other text properties available in CSS?
+
+Explain the CSS Box Model.
+
+How to float an image around some text.
+
+What is the default value of box-sizing property?
+
+Different values of position property in CSS
+
+Different values of display property in CSS
+
+Difference between display: none & visibility: hidden
+
+What is universal selector in CSS?
+
+Difference between (space) and (>) selectors in CSS?
+
+Difference between (+) and (~) selectors in CSS?
+
+Difference between inline, block and inline-block in CSS?
+
+What are pseudo classes?
+
+Does margin-top or margin-bottom have an effect on inline elements?
+
+What is z-index?
+
+Difference between justify-content & align-items in CSS?
+
+Explain flex-wrap property in CSS
+
+What does !important mean in CSS?
+
+
+
+
+
+
+
+//////////	JAVASCRIPT //////////
+
+
+
+Is Javascript a statically typed or a dynamically typed language?
+
+What is the difference between client-side and server-side Javascript?
+
+What is recursion in a programming language? Explain with example.
+
+What are the different data types present in Javascript?
+
+Explain Hoisting in Javascript.
+
+Difference between var, let & const keywords in Javascript.
+
+Difference between “ == “ and “ === “ operators.
+
+What do you understand by DOM?
+
+What do you understand by virtual DOM?
+
+Explain scope in programming languages.
+
+Explain “this” keyword with example.
+
+Explain Higher Order Functions in Javascript.
+
+What are callbacks? Explain with example.
+
+What is currying in Javascript?
+
+Explain Closures in Javascript.
+
+What are anonymous functions? 
+
+What are arrow functions?
+
+Is there any difference in arrow & anonymous functions in Javascript?
+
+What are rest and spread operators?
+
+Explain Asynchronous programming with example.
+
+What are promises in Javascript? Explain with example.
+
+What are the various states of promises?
+
+What are the advantages of using promises over callbacks?
+
+What is Object Destructuring?
+
+Difference between setInteval & setTimeout?
+
+Explain event loop & execution context in Javascript?
+
+Explain OOP?
+
+What are constructors?
+
+What is super constructor in Javascript?
+
+How are arrays different from Set in Javascript? (uniqueness, methods, ordering)
+
+Does Set has methods push & pop?
+
+Difference between flat & flatMap in JS.
+
+What is the difference between Object.seal & Object.freeze?
+
+Explain modularization in Javascript (import & export).
+
+	

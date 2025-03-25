@@ -6,9 +6,6 @@
 // // }
 
 
-
-
-
 // Call back function :-
 
 // Definition: A callback function is a function that is passed as an argument to another function, to be “called back” at a later time.
