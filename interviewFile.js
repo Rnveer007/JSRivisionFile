@@ -264,12 +264,30 @@
 
 
 // Explain Closures in Javascript.
+// Ans- A closure is a funtion that allows access to variables from its outer function and globle variables, even after outer function has finished excution
+//ex:-
+// function outer() {
+//   let outerVar = "I'm in the outer scope"
+//   function inner() {
+//     console.log(outerVar)
+//   }
+//   return inner
+// }
+
+// const closure = outer()
+// closure()
 
 // What are anonymous functions? 
+// A anonymouss function is simply a funtion that does not have a name.
 
 // What are arrow functions?
+// Ans -  An Arrow function is a sorter syntax to writing function in javascript.
+//ex :- const add =  (a,b) => {a + b};
+// console.log(add(4,3))
 
 // Is there any difference in arrow & anonymous functions in Javascript?
+// Ans :- An anonymous function is a regular function in javascript that does not have a name. can be assigned to a variable or paased as an argument. and also has its own This and argument object.
+// other hand an arrow function is shorter, more concise way to write a function using => syntax. and does not have its own this and argument object.
 
 // What are rest and spread operators?
 
