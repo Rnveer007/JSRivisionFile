@@ -246,6 +246,22 @@
 // greet("Ranveer" , saybye)
 
 // What is currying in Javascript?
+//Ans :- Curring is used in javascript to break down complex functions calls into smaller, more manageable steps. it transform a funtion with multiple argument into a series of function, each taking a single argument.
+// Ex:- Normal Function 
+// function add(a, b) {
+//   return a + b;
+// }
+// console.log(add(3, 5))
+
+//Ex :- function Curring :- 
+// function add(a) {
+//   return function (b) {
+//     return a + b;
+//   }
+// }
+// const addTwo = add(5); // first function call with 5
+// console.log(addTwo(4)) // output - 9
+
 
 // Explain Closures in Javascript.
 
