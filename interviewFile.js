@@ -55,7 +55,7 @@
 
 // How can we include audio or video in a webpage?
 // Ans :- By using <audio> and <video> tags
- 
+
 // What type of audio files can be played using HTML5?
 // And:-
 // Mp3
@@ -209,10 +209,41 @@
 // Explain “this” keyword with example.
 // Ans :- This refers to the Object that is excuting the currunt function.
 // the value of the is depend on how and where the function is called
+//Ex :-
+// let person = {
+//   name: "Ranveer",
+//   greet: function () {
+//     console.log(this.name)
+//   }
+// }
+// person.greet() //output = Ranveer
 
 // Explain Higher Order Functions in Javascript.
+// A higher order function is function that takes one or two functions as arguments, or return a function as its result.
+//Ex :-
+// function callBackFunction() {
+//   console.log("I am call back function")
+// }
+
+// function higherOrderFunction(func) {
+//   console.log("i am higher order funtion")
+//   func()
+// }
+
+// higherOrderFunction(callBackFunction)
 
 // What are callbacks? Explain with example.
+//Ans :- A callback function is a function that is paased to another function as an argument and excuted later.
+//Ex :- 
+// function greet(name, callback) {
+//   console.log("Hello " + name)
+//   callback()
+// }
+
+// function saybye() {
+//   console.log("Goodbye")
+// }
+// greet("Ranveer" , saybye)
 
 // What is currying in Javascript?
 
@@ -256,4 +287,3 @@
 
 // Explain modularization in Javascript (import & export).
 
-	
