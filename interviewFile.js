@@ -202,9 +202,13 @@
 
 // What do you understand by virtual DOM?
 // Ans :- The Vertual DOM (VDOM) is assentially a javascript object the mirros the sturcture of acutal DOM but exists in Memory
+
 // Explain scope in programming languages.
+// Ans :- In Programming, scope refers to the region of a programe where a variable or function is visible and accesible, determinig where it can be used and how long its value persits during excution.
 
 // Explain “this” keyword with example.
+// Ans :- This refers to the Object that is excuting the currunt function.
+// the value of the is depend on how and where the function is called
 
 // Explain Higher Order Functions in Javascript.
 
