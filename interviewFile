@@ -90,10 +90,13 @@ Explain how inheritance works in CSS?
 What is CSS specificity?
 
 What does RGB stand for in CSS?
+Ans:- The CSS RGB () function specifes a color using red-green-blue model. An optional alpha component can also be added(represent the tranparency of color)
 
 What is the A in RGBA?
+Ans :- In RGBA A stands for alpha which specifies the transparancy of color.
 
 What are HEX values in CSS?
+Ans:- The most common way to specify colors in css is use thier hexadecimal values, HEX numbers can be 0-9 and A-F.
 
 What are EM & REM units in CSS?
 
@@ -156,8 +159,10 @@ What does !important mean in CSS?
 
 
 Is Javascript a statically typed or a dynamically typed language?
+Ans:- JS is dynamically typed language.
 
 What is the difference between client-side and server-side Javascript?
+Ans:- clint-side javascript runs in user's browser.while server-side Javascript executes on the server.
 
 What is recursion in a programming language? Explain with example.
 
