@@ -290,6 +290,7 @@
 // other hand an arrow function is shorter, more concise way to write a function using => syntax. and does not have its own this and argument object.
 
 // What are rest and spread operators?
+//Ans :- These oprators use tha same syntax(...) but they serve diffrent perpose. the rest parameter collect multiples into an array, while spread oprator spreads elements from an array or object.
 
 // Explain Asynchronous programming with example.
 
